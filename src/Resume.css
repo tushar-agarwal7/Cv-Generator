@@ -1,0 +1,113 @@
+.resume{
+   
+    width: 700px;
+    border: 2px solid black;
+    background-color: rgb(208, 215, 201);
+    padding: 20px;
+   
+}
+
+.general-info{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(229, 229, 87);
+    color: rgb(40, 156, 185);
+    height: 100px;
+   
+
+}
+.name{
+    font-size: 38px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+.contact{
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(184, 184, 255);
+    height: 200px;
+    margin-bottom:40px ;
+}
+.contact-head{
+    background-color: black;
+    color: white;
+    display: flex;
+justify-content: center;
+ align-items: center;
+ width: 100%;
+ 
+}
+
+.education{
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 320px;
+    background-color: rgb(184, 184, 255);
+    height: 200px;
+}
+.edu-head{
+    background-color: black;
+    color: white;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+ 
+}
+
+
+.exep{
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 40px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(184, 184, 255);
+    height: 200px;
+}
+.exep-head{
+    background-color: black;
+    color: white;
+    display: flex;
+justify-content: center;
+ align-items: center;
+ width: 100%;
+ 
+}
+
+.download{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}

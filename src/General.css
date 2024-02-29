@@ -1,0 +1,8 @@
+.general{
+    background-color: rgb(226, 164, 72);
+    width: 450px;
+    margin: 40px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
